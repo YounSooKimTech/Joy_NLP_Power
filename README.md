@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-4B8BBE?style=for-the-badge)
 ![Statistical Test](https://img.shields.io/badge/Statistical%20Test-FFD700?style=for-the-badge)
-![CLT](https://img.shields.io/badge/Construal Level Theory%20-FFD700?style=for-the-badge)
+![CLT](https://img.shields.io/badge/Construal%20Level%20Theory-FFC0CB?style=for-the-badge)
 
 
 
