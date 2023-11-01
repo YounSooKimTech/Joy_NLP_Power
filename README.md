@@ -3,7 +3,7 @@
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-4B8BBE?style=for-the-badge)
 ![Statistical Test](https://img.shields.io/badge/Statistical%20Test-FFD700?style=for-the-badge)
 ![CLT](https://img.shields.io/badge/Construal%20Level%20Theory-FFC0CB?style=for-the-badge)
-
+![Power Dynamics](https://img.shields.io/badge/Power%20Dynamics-002B7F?style=for-the-badge)
 
 Welcome to the data and code repository for conferences and related projects. This repository is a resource for the following conferences:
 - **Artificial Intelligence Research in Applied Linguistics (AIRiAL) Conference** at Teachers College, Columbia University
