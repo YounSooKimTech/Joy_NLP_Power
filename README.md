@@ -1,4 +1,6 @@
 # Joy_NLP_Power
+[![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
+[![NLP](https://img.shields.io/badge/NLP-Yes-brightgreen.svg)](https://en.wikipedia.org/wiki/Natural_language_processing)
 
 
 
