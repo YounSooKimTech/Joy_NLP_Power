@@ -46,5 +46,4 @@ The repository contains a variety of datasets and resources, including:
 - Feel free to explore, download, and utilize these resources for your research and projects.
 - If you have relevant data or code to share, please don't hesitate to reach out and contribute to this repository.
 - For more information, please refer to the documentation or contact me via yk2949@columbia.edu.
-
-Happy researching!
+- Happy researching!
