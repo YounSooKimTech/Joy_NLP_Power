@@ -8,11 +8,15 @@
 Welcome to the data and code repository for conferences and related projects. This repository is a resource for the following conferences:
 - **Artificial Intelligence Research in Applied Linguistics (AIRiAL) Conference** at Teachers College, Columbia University
 - **Decision Science Institute Conference** in Atlanta
+  
 <br>
+
 ### Overview:
 This repository serves as a hub for data, code, and information related to the conferences mentioned above. 
 It includes valuable resources for researchers and participants.
+
 <br>
+
 ### Data:
 The repository contains a variety of datasets and resources, including:
 - **Preprocessed Enron Corpus**: A curated data collection from the Enron Corporation.
@@ -39,14 +43,3 @@ If you have relevant data or code to share, please don't hesitate to reach out a
 For more information, please refer to the documentation or contact me via yk2949@columbia.edu.
 
 Happy researching!
-
-
-
-
-
-
-# Python notebook
-- message length
-- left on read
-- sentiment
-- time delta between original and reply
