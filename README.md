@@ -1,6 +1,7 @@
 # Joy_NLP_Power
-![Python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![NLP](https://img.shields.io/badge/NLP-Yes-brightgreen.svg)](https://en.wikipedia.org/wiki/Natural_language_processing)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-4B8BBE?style=for-the-badge)
+![Statistical Test](https://img.shields.io/badge/Statistical%20Modeling-FFD700?style=for-the-badge)
 
 
 
